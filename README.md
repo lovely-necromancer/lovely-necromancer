@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lovely-necromancer
+- 👀 I’m interested in souls
+- 🌱 I’m currently learning better ways to devour my victims
+- 💞️ I’m looking to collaborate on other-world
+- 📫 How to reach me: at midnight, turn off any light source. offer your soul to me. If you are lucky enough, I may come to you (^_^)
