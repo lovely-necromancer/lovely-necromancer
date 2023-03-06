@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @lovely-necromancer
-- 👀 I’m interested in souls
-- 🌱 I’m currently learning better ways to devour my victims
-- 💞️ I’m looking to collaborate on other-world
-- 📫 How to reach me: at midnight, turn off any light source. offer your soul to me and send me email (lovely_necromancer@proton.me). If you are lucky enough, I may come to you (^_^)
+- 👋 Hi, I’m @lovely-necromancer (earth-name: Shahriar Ebrahimi)
+- 🧐 I'm a PostDoc at IDEAS-NCBR, Warsaw, Poland. 
+- 🧐 I've got my PhD in Computer Engineering in 2021. My thesis was in the field of Lattice-based Cryptography.
+- 👀 I’m interested in cryptography, especially: zero-knowledge proofs, multi-parti computation (MPC), and post-quantum cryptography.
+- 🌱 I’m currently involved in expanding @Dexpresso-protocol.
+- 💞️ I’m looking to collaborate on any project that tries to revolutionize centralized architectures with MPC/ZKP/Blockchain technologies.
+- 📫 How to reach me: sh.ebrahimi92 [AT] gmail [DOT] com  ---or--- lovely_necromancer [AT] proton [dot] me
