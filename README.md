@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lovely-necromancer (earth-name: Shahriar Ebrahimi)
 - 🧐 I'm a PostDoc at IDEAS-NCBR, Warsaw, Poland. 
 - 🧐 I've got my PhD in Computer Engineering in 2021. My thesis was in the field of Lattice-based Cryptography.
-- 👀 I’m interested in cryptography, especially: zero-knowledge proofs, multi-parti computation (MPC), and post-quantum cryptography.
+- 👀 I’m interested in cryptography, especially: zero-knowledge proofs, verifiable computation (VC), multi-parti computation (MPC), and post-quantum cryptography.
 - 🌱 I’m currently involved in expanding @Dexpresso-protocol.
-- 💞️ I’m looking to collaborate on any project that tries to revolutionize centralized architectures with MPC/ZKP/Blockchain technologies.
+- 💞️ I’m looking for collaboratation on any project that tries to revolutionize centralized architectures with MPC/ZKP/Blockchain technologies.
 - 📫 How to reach me: sh.ebrahimi92 [AT] gmail [DOT] com  ---or--- lovely_necromancer [AT] proton [dot] me
