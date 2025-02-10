@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lovely-necromancer (earth-name: Shahriar Ebrahimi)
-- 🧐 I'm a PostDoc at IDEAS-NCBR, Warsaw, Poland. 
-- 🧐 I've got my PhD in Computer Engineering in 2021. My thesis was in the field of Lattice-based Cryptography.
+- 🧐 I'm a Research Associate at Newcastle University, UK.  
+- 🧐 Previously, I was a PostDoc at IDEAS-NCBR, Warsaw, Poland. I've got my PhD in Computer Engineering in 2021. My thesis was focused on Lattice-based Cryptography.
 - 👀 I’m interested in cryptography, especially: zero-knowledge proofs (ZKP), Fully Homomorphic Encryption (FHE), multi-party computation (MPC), and Computational Fuzzy Extractors (CFE).
 - 🌱 I’m currently involved in @Zero-Savvy.
 - 💞️ I’m looking for collaboratation on any project that tries to revolutionize centralized architectures with MPC/ZKP/Blockchain technologies.
