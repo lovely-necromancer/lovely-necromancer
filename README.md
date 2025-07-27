@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @lovely-necromancer (earth-name: Shahriar Ebrahimi)
-- 🧐 I'm a Founding Memeber @ Zero Savvy, UK.  
+- 🧐 I'm a Research Fellow @ University of Warwick, UK, and also a Founding Memeber @ [Zero Savvy](https://github.com/zero-savvy).
+- 🪱 I'm focusing right now on [@worm-privacy](https://github.com/worm-privacy) and 🔥[@incendia](https://github.com/zero-savvy/burn-to-vote).
 - 🧐 Previously, I was an RA at Newcastle University, and prior to that a PostDoc at IDEAS-NCBR, Warsaw, Poland. I've got my PhD in Computer Engineering in 2021. My thesis was focused on Lattice-based Cryptography.
 - 👀 I’m interested in cryptography, especially: zero-knowledge proofs (ZKP), Fully Homomorphic Encryption (FHE), multi-party computation (MPC), and Computational Fuzzy Extractors (CFE).
 - 🌱 I’m currently involved in @Zero-Savvy.
