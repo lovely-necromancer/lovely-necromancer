@@ -4,6 +4,4 @@
 - 🏛️ Previously, I was Research Fellow @ University of Warwick, and also Research Associate at Newcastle University in UK, and prior to that a PostDoc at IDEAS-NCBR, Warsaw, Poland.
 - 👨‍🎓 I've got my PhD in Computer Engineering in 2021. My thesis was on Applied Lattice-based Cryptography.
 - 👀 I’m interested in cryptography, especially: zero-knowledge proofs (ZKP), Fully Homomorphic Encryption (FHE), multi-party computation (MPC), and Computational Fuzzy Extractors (CFE).
-- 🌱 I’m currently involved in @Zero-Savvy.
-- 💞️ I’m looking for collaboratation on any project that tries to revolutionize centralized architectures with MPC/ZKP/Blockchain technologies.
 - 📫 How to reach me: sh.ebrahimi92 [AT] gmail [DOT] com  ---or--- lovely_necromancer [AT] proton [dot] me
