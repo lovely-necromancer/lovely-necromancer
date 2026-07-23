@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lovely-necromancer (earth-name: Shahriar Ebrahimi)
+- 👋 Hi, I’m @lovely-necromancer (Shahriar Ebrahimi)
 - 🧐 I'm a Research Associate @ [Alan Turing Institute](https://www.turing.ac.uk/), and also a Founding Memeber @ [Zero Savvy](https://github.com/zero-savvy).
 - 💻 Right now, I'm mostly focused on 🔥[@incendia](https://github.com/zero-savvy/burn-to-vote).
 - 🏛️ Previously, I was Research Fellow @ University of Warwick, and also Research Associate at Newcastle University in UK, and prior to that a PostDoc at IDEAS-NCBR, Warsaw, Poland.
